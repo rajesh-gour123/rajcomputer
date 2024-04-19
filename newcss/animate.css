@@ -1,0 +1,83 @@
+/* banner btn.................... */
+.banner .btn:hover{
+    letter-spacing: 0.2rem;
+    box-shadow: 0px 0px 35px #fdfffc;
+    border: 2px solid #fdfffc;
+    background: #fdfffc;
+    color: #011627;
+    box-sizing: none;
+    transition: all 0.3s linear;
+}
+
+.banner .btn:click{
+   border:1px solid #e71d36;
+   background:transparent;
+}
+
+
+.about-plateform .csc:hover{
+    box-shadow: 0.5rem 3rem 2rem;
+    transition: all 0.5s linear;
+}
+
+.roshni:hover{
+    box-shadow: 0.5rem 3rem 2rem;
+    transition: all 0.5s linear;
+}
+
+.about-plateform a:hover{
+    text-decoration: none;
+  }
+
+
+  .about-plateform .btn1:hover{
+    letter-spacing: 0.1rem;
+    box-shadow: 0px 2px 16px #e71d36;
+    border: 2px solid #e71d36;
+    background: #e71d36;
+    color: #011627;
+    box-sizing: none;
+    transition: all 0.3s linear;
+}
+
+
+
+.btn:hover{
+    color: #fdfffc;
+    background-color: #e71d36;
+    border: 1px solid #e71d36;
+    box-shadow: 0rem 0rem 2rem #fdfffc;
+    transform: scale(1.1);
+}
+
+.importent-doc:hover{
+    background-color: #e71d36;
+    box-shadow: 0.1rem 0.1rem 0.5rem;
+    transform: scale(1.1);
+}
+.importent-doc:hover h3{
+    color: #011627;
+
+}
+
+.importent-doc:hover p{
+    color:#fdfffc;
+}
+
+
+.car-insurence-type img{
+    animation: car all 3s linear;
+ }
+
+ .health-hover:hover{
+    margin-top:-15px;
+    box-shadow: 0.2rem 0.1rem 0.9rem #2ec4b6;
+
+}
+
+
+.health-btn:hover{
+    border:#2ec4b6 ;
+    background-color: transparent;
+    box-shadow: 0rem 0rem 1rem #2ec4b6, inset 0rem 0rem 0.1rem #2ec4b6;
+}

@@ -1,0 +1,41 @@
+body{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.my-container{
+    width:100%;
+}
+
+#my-navigation{
+    background:red;
+    border:none;
+    width:100%;
+    position:absolute;
+    z-index: 10;
+}
+
+.carousel{
+    .item{
+        background-image: url(../img/slide\ 1.jpg);
+        width:100vw;
+        height:70vh;
+        background-size: cover;
+    }
+    .item-2{
+        background-image: url(../img/pexels-min-an-911804.jpg);
+    }
+    .item-3{
+        background-image: url(../img/CaptureD.jpg);
+    }
+    .item-4{
+        background-image: url(../img/PHOTO.jpg-BACKGR.jpg);
+    }
+}
+
+.banner-middle{
+    position:absolute;
+    top:40%;
+    right:35%;
+    text-align: center
+}
