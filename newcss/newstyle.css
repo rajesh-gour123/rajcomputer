@@ -95,7 +95,8 @@ body{
     color: #fdfffc;
 }
 .navbar-list a{
-    color:#e71d36;
+    color: #fdfffc;
+    text-decoration: none;
 }
 .nav-link{
     font-size: 1.2rem;
